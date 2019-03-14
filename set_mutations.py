@@ -118,4 +118,4 @@ for i in xrange(N):
 	else:
 		print 'Incorrect parameters'
 
-print A
+print sum(A)
